@@ -1,4 +1,6 @@
 # hse-bot
+**This was a lockdown project from January 2022 to keep myself busy during COVID isolation. The specifics of the website are almost certainly out of date when you're reading this.**
+
 Two methods in Python for checking the number of PCR Tests available on the HSE system
 
 ## hse_bot.py
